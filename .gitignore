@@ -1,0 +1,25 @@
+# Quartus build folders
+db/
+incremental_db/
+output_files/
+simulation/
+greybox_tmp/
+pll_sim/
+
+# ModelSim / Questa
+work/
+vsim.wlf
+modelsim.ini
+
+# Project files that regenerate
+*.qpf
+*.qsf
+*.sopcinfo
+*.save
+*.rpt
+*.summary
+*.ccf
+*.jdi
+
+# Windows
+Thumbs.db
